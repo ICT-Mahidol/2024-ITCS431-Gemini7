@@ -15,8 +15,7 @@
 ![Image 13](https://drive.google.com/uc?id=)
 ![Image 14](https://drive.google.com/uc?id=)
 ![Image 15](https://drive.google.com/uc?id=)
+# Class diagram
+## Link of class diagram: 
+### https://drive.google.com/file/d/1LdvAipAVBYU-VFY8yDbNge_jCT_Euv31/view?usp=sharing
 ![Image 16](https://drive.google.com/uc?id=)
-![Image 17](https://drive.google.com/uc?id=)
-![Image 18](https://drive.google.com/uc?id=)
-![Image 19](https://drive.google.com/uc?id=)
-![Image 20](https://drive.google.com/uc?id=)
