@@ -11,7 +11,7 @@
 ![Image 9](https://drive.google.com/uc?id=1pR_xTY2Vq0c3Q06awFBY6BSykFEp04rp)
 ![Image 10](https://drive.google.com/uc?id=1vfWNy2nHxbEdGYhu69avyGyxnMHI5vD3)
 ![Image 11](https://drive.google.com/uc?id=10FvKnaMcrj1A9U_-5UDbTLo0Lp8FQWWy)
-![Image 12](https://drive.google.com/uc?id=12gDthQ-H6RaQ7ndc7x-R26WnWOV9y_ys)
+![Image 12](https://drive.google.com/uc?id=1gVSyxgUYxw55vyIzL2HtiLpet2FpfuSG)
 # Class diagram
 ## Link of class diagram: 
 ### https://drive.google.com/file/d/1LdvAipAVBYU-VFY8yDbNge_jCT_Euv31/view?usp=sharing
